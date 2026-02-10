@@ -7,7 +7,7 @@
 
 ## 🌟 What Makes This Universal?
 
-Unlike the car-specific RollBack tool, this framework analyzes **ANY** wireless device operating on common ISM bands (315/433/868/915 MHz):
+This framework analyzes **ANY** wireless device operating on common ISM bands (315/433/868/915 MHz):
 
 | Device Category | Examples | Supported |
 |----------------|----------|-----------|
