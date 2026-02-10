@@ -18,6 +18,8 @@ Unlike the car-specific RollBack tool, this framework analyzes **ANY** wireless 
 | **Communication** | Pagers, one-way transmitters | ✅ |
 | **Access Control** | Key fobs, proximity cards (125kHz needs different HW) | ⚠️ |
 
+## For 125kHz Please use othe Hardware as i only have Hackrf One so i can't verify if it work on other device , no harm to try on othe device
+
 ---
 
 ## 🔍 Core Capabilities
